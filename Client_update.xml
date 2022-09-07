@@ -1,6 +1,6 @@
-
+<version>
 <update>1.0.0 to 1.0.1</update>
-    <modify>
+    <modifies>
     <amount>4</amount>
         <c1>
             <type>remove</type>
@@ -28,4 +28,5 @@
                 <name>betterfps.json</name>
                 <link>https://gitee.com/kitamaruramito/mclauncher/raw/Takovaction/.minecraft/config/betterfps.json</link>
         </c4>
-    </modify>
+    </modifies>
+</version>
