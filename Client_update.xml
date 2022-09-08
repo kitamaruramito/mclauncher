@@ -4,29 +4,29 @@
     <amount>4</amount>
         <c1>
             <type>remove</type>
-                <folder>\.minecraft\mods</folder>
+                <folder>\mods</folder>
                 <name>[1.12.2]-高清修复-OptiFine_HD_U_G5.jar</name>
         </c1>
 
         <c2>
             <type>add</type>
-                <folder>\.minecraft\mods</folder>
+                <folder>\mods</folder>
                 <name>[1.12.2]-高清修复-OptiFine_HD_U_G5.jar</name>
-                <link>https://gitee.com/kitamaruramito/mclauncher/raw/Takovaction/.minecraft/mods/%5B1.12.2%5D-%E9%AB%98%E6%B8%85%E4%BF%AE%E5%A4%8D-OptiFine_HD_U_G5.jar</link>
+                <link>https://cdn.statically.io/gh/kitamaruramito/mclauncher/Takovaction/.minecraft/mods/%5B1.12.2%5D-%E9%AB%98%E6%B8%85%E4%BF%AE%E5%A4%8D-OptiFine_HD_U_G5.jar</link>
         </c2>
 
         <c3>
             <type>add</type>
-                <folder>\.minecraft\mods</folder>
+                <folder>\mods</folder>
                 <name>[1.12.2]-维克踹门-CQC-1.0.0.jar</name>
-                <link>https://gitee.com/kitamaruramito/mclauncher/raw/Takovaction/.minecraft/mods/%5B1.12.2%5D-%E7%BB%B4%E5%85%8B%E8%B8%B9%E9%97%A8-CQC-1.0.0.jar</link>
+                <link>https://cdn.statically.io/gh/kitamaruramito/mclauncher/Takovaction/.minecraft/mods/%5B1.12.2%5D-%E7%BB%B4%E5%85%8B%E8%B8%B9%E9%97%A8-CQC-1.0.0.jar</link>
         </c3>
 
         <c4>
             <type>replace</type>
-                <folder>\.minecraft\config</folder>
+                <folder>\config</folder>
                 <name>betterfps.json</name>
-                <link>https://gitee.com/kitamaruramito/mclauncher/raw/Takovaction/.minecraft/config/betterfps.json</link>
+                <link>https://cdn.statically.io/gh/kitamaruramito/mclauncher/Takovaction/.minecraft/config/betterfps.json</link>
         </c4>
     </modifies>
 <latest>1.0.1</latest>
