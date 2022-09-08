@@ -32,5 +32,25 @@
                 <MD5>9fafc11a63bc72f6d2cfa5a3e3ebd02b</MD5>
         </c4>
     </modifies>
-<latest>1.0.1</latest>
+    
+    <update>1.0.1 to 1.0.2</update>
+    <modifies>
+    <amount>2</amount>
+        <c1>
+            <type>replace</type>
+                <folder>\mods</folder>
+                <name>[1.12.2]-高清修复-OptiFine_HD_U_G5.jar</name>
+                <link>https://cdn.statically.io/gh/kitamaruramito/mclauncher/Takovaction/.minecraft/mods/%5B1.12.2%5D-%E9%AB%98%E6%B8%85%E4%BF%AE%E5%A4%8D-OptiFine_HD_U_G5.jar</link>
+                <MD5>54e561e441192cf009803ae95873c5d0</MD5>
+        </c1>
+        <c2>
+            <type>replace</type>
+                <folder>\config</folder>
+                <name>betterfps.json</name>
+                <link>https://cdn.statically.io/gh/kitamaruramito/mclauncher/Takovaction/.minecraft/config/betterfps.json</link>
+                <MD5>9fafc11a63bc72f6d2cfa5a3e3ebd02b</MD5>
+        </c2>
+    </modifies>
+    
+<latest>1.0.2</latest>
 </version>
